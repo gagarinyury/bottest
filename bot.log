@@ -1,0 +1,1 @@
+INFO:aiohttp.access:127.0.0.1 [09/Mar/2025:14:28:55 +0200] "GET /version HTTP/1.0" 404 175 "-" "Mozilla/5.0 zgrab/0.x"
